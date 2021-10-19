@@ -12,7 +12,7 @@ Some of the insights from the data is:
 - etc.
 
 
-Images of the grpahs/plots:
+Images of the graphs/plots:
 
 ![diet-servings graph](https://github.com/Surajv311/Data_Analysis-Food_Recipes_DS/blob/main/images/diet-servings.png)
 
